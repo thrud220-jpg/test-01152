@@ -58,7 +58,7 @@ nav .gnb > li .depth2{
     position: absolute;
     left: 20px;
     width: 150px;
-    background: #000;
+    background: red;
     padding: 20px;
     display: none;
 }
